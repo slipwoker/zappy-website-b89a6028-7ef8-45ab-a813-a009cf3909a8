@@ -1,0 +1,69 @@
+# קוטלרע'ס אתרוגים — Generative Engine Optimization Map
+
+> Kotler's Etrogim is a luxury e-commerce brand specializing in premium Four Species (Arba Minim) sets for Sukkot, operating exclusively in Israel with home delivery. The brand identity is deeply inspired by the world of diamonds and fine jewelry — radiating exclusivity, purity, and innovation. Products are tiered by quality (Diamond, Premium, Mehudar, Basic Mehudar) and presented with high-resolution imagery, optional video, detailed kashrut levels, origin information, and delivery timelines. The overall experience is designed to feel like purchasing a precious gem — trustworthy, fast, and aspirationally luxurious, positioning Sukkot's Four Species as the 'diamonds of the holiday.'
+
+---
+
+## Pages
+
+### בית
+https://-b89a6028.zappy5.app
+גלה את סט ארבעת המינים המהודר ביותר בישראל, באריזת יוקרה בהשראת עולם היהלומים. אתרוגים ברמות כשרות מובחרות עם משלוח מהיר עד אליך. הזמן עכשיו את השלמות לחג!
+
+### תודה רבה - פנייתך התקבלה | קוטלרע'ס אתרוגים
+https://-b89a6028.zappy5.app/thank-you
+תודה רבה על פנייתך לקוטלרע'ס אתרוגים. הודעתך התקבלה בהצלחה ונציג מטעמנו יחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b89a6028.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b89a6028.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b89a6028.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-b89a6028.zappy5.app
+- Endpoint: https://-b89a6028.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `tier` (select)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About קוטלרע'ס אתרוגים
+Kotler's Etrogim is a luxury e-commerce brand specializing in premium Four Species (Arba Minim) sets for Sukkot, operating exclusively in Israel with home delivery. The brand identity is deeply inspired by the world of diamonds and fine jewelry — radiating exclusivity, purity, and innovation. Products are tiered by quality (Diamond, Premium, Mehudar, Basic Mehudar) and presented with high-resolution imagery, optional video, detailed kashrut levels, origin information, and delivery timelines. The overall experience is designed to feel like purchasing a precious gem — trustworthy, fast, and aspirationally luxurious, positioning Sukkot's Four Species as the 'diamonds of the holiday.'
+
+## Target Audience
+- לקוחות בישראל המחפשים סטים של ארבעת המינים באיכות גבוהה עם משלוח עד הבית
+
+## Industry
+E-commerce / Judaica & Religious Products
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-b89a6028.zappy5.app/sitemap.xml
+- Robots: https://-b89a6028.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-b89a6028.zappy5.app/llms-full.txt
